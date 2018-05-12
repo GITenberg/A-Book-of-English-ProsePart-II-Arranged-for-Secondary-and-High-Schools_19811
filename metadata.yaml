@@ -1,0 +1,30 @@
+_repo: A-Book-of-English-ProsePart-II-Arranged-for-Secondary-and-High-Schools_19811
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lubbock, Percy
+    birthdate: 1879
+    deathdate: 1965
+    gutenberg_agent_id: '8373'
+    url: http://www.gutenberg.org/2009/agents/8373
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Lubbock
+description: Pt. I. Arranged for preparatory and elementary schools -- pt. II. Arranged
+  for secondary and high schools.
+gutenberg_issued: '2006-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers (Secondary)'
+- !lcc 'PR'
+title: 'A Book of English Prose
+
+  Part II, Arranged for Secondary and High Schools'
+url: http://www.gutenberg.org/ebooks/19811
